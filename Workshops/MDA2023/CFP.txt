@@ -1,0 +1,59 @@
+==== Call for papers  UDML 2021 workshop @ ICDM 2021 =======
+
+** 4th International Workshop on Utility-Driven Mining and Learning **
+in conjunction with the 21th IEEE International Conference on Data Mining (ICDM 2021)
+December 7, 2021, Auckland, New Zealand
+
+Scope
+=====
+
+Utility-driven mining and learning from data has received emerging attentions from KDD communities due to its high potential in wide applications, covering finance, biomedicine, manufacturing, e-commerce, social media, etc. Some current research topics in utility-driven mining focused are for example to discover patterns of high value (eg, high profit) in large databases, analyzing/learning the important factors (eg, economic factors) in the data mining or machine learning process, and learning models that optimize some given utility functions. One of the popular applications of utility mining and learning is the analysis of large transactional databases to discover high-utility itemsets, which consist of sets of items that generate a high profit when purchased together.
+
+The workshop aims at bringing together academic and industrial researchers and practitioners from data mining, machine learning and other interdisciplinary communities, in the collaborative effort of identifying and discussing major technical challenges, recent results and potential topics on the emerging fields of Utility-Driven Mining and Learning. This workshop will focus on real world experiences, inherent challenges, as well as new research methods/applications.
+
+Following the success of the UDML 2018 , UDML 2019 , and UDML 2020 , the fourth Utility-Driven Mining and Learning (UDML 2021) workshop will discuss a broad variety of topics related to utility-driven mining and learning, including:
+
+- Theory and core methods for utility mining and learning
+- Utility pattern mining in large datasets
+- Analysis and learning of novel utility factors in data mining and machine learning processes
+- Predictive modeling/learning, clustering and link analysis that incorporate utility factors
+- Game-theoretic multiagent system
+- Utility-based decision-making, planning and negotiation
+- Models for utility optimizations and maximization
+- Utility mining and learning in dynamic databases
+- Utility mining and learning in IoT environment
+- Utility mining and learning in streams
+- Utility mining and learning in big data
+- Knowledge representations for utility patterns
+- Knowledge integration and fusion of utility patterns
+- Privacy preserving and security issues in utility mining/learning
+- AI and ML models incorporated with utility-driven concept
+- Visualization techniques for utility mining/learning
+- Open-source software/libraries/platform
+- Innovative applications in interdisciplinary domains
+- New, open, or unsolved problems in utility-driven mining and learning
+
+Organizing committee
+====================
+- Vincent S. Tseng 		(National Chiao Tung University, Taiwan)
+- Philip S. Yu 			(University of Illinois at Chicago, USA)
+- Jerry Chun-Wei Lin 		(Western Norway University of Applied Sciences, Norway)
+- Philippe Fournier-Viger 	(Harbin Institute of Technology Shenzhen, China)
+
+Important dates
+===============
+Paper submission deadline:	September 3, 2021
+Paper notifications: 		September 24, 2021
+Workshop date:			December 7 2021
+
+
+Format requirements
+======================
+Papers must present original research, and layout in at most 10 pages in IEEE 2-column format
+
+All accepted papers will be published in the IEEE ICDM 2021 Workshop proceedings (EI, DBLP, IEEE Xplore indexed).  Moreover, a special journal issue in an indexed journal is under discussion for selected papers from the workshop.
+
+Workshop website
+================
+More information at:
+https://www.philippe-fournier-viger.com/utility_mining_workshop_2021/
